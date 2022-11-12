@@ -1,0 +1,9 @@
+https://imgur.com/a/APT1kSx
+
+Link to image is above.
+
+Additional elements
+
+A second load balancer is added as a backup incase the other load balancer fails
+
+Servers for specific components are added. This increases performance and also security (database is more secured) of the system. Horizontal scaling of the individual components will become easier.
